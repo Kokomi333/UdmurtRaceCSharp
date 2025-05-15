@@ -1,0 +1,11 @@
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\bin\Debug\net8.0\UdmurtRace.Domain.deps.json
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\bin\Debug\net8.0\UdmurtRace.Domain.dll
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\bin\Debug\net8.0\UdmurtRace.Domain.pdb
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.AssemblyInfoInputs.cache
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.AssemblyInfo.cs
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.dll
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\refint\UdmurtRace.Domain.dll
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\UdmurtRace.Domain.pdb
+C:\Users\student\Documents\lab5C#\UdmurtRace.Domain\obj\Debug\net8.0\ref\UdmurtRace.Domain.dll
